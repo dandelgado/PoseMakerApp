@@ -1,0 +1,16 @@
+
+{
+    "Background Color":"#ffffccf",
+    "Shapes":[
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"293.0",
+            "Y Location":"290.0",
+            "Width":"336.0",
+            "Height":"298.0",
+            "Fill Color":"#cc3333ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"23.160804020100503"
+        }
+    ]
+}

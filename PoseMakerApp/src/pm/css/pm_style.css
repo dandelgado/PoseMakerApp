@@ -20,7 +20,7 @@
     -fx-font-size:20;
 }
 
-// CSS CLASS FOR PAGE EDITING BUTTONS
+/*CSS CLASS FOR PAGE EDITING BUTTONS*/
 .tag_button {
     -fx-background-color: 
         linear-gradient(#ffd65b, #e68400),
@@ -36,14 +36,14 @@
     -fx-padding: 10 20 10 20;
 }
 
-// CSS CLASS FOR PANES TO FILL THEIR FULL REGION
+/*CSS CLASS FOR PANES TO FILL THEIR FULL REGION*/
 .max_pane {
     -fx-fit-to-height: true;
     -fx-fit-to-width: true;
     -fx-background-color:#ccccff;
 }
 
-// CSS CLASS FOR OUR BIG PANES
+/*CSS CLASS FOR OUR BIG PANES*/
 .bordered_pane {
     -fx-background-color: #aaaaff;
     -fx-background-radius: 5.0;
@@ -53,25 +53,25 @@
     -fx-border-color: #7777dd;
 }
 
-// CSS CLASS FOR LABELS HEADING LARGE SECTIONS IN THE GUI
+/*CSS CLASS FOR LABELS HEADING LARGE SECTIONS IN THE GUI*/
 .heading_label {
     -fx-font-size: 20pt;
     -fx-font-weight: bold;
 }
 
-// CSS CLASS FOR LABELS HEADING SUBSECTIONS IN THE GUI
+/*CSS CLASS FOR LABELS HEADING SUBSECTIONS IN THE GUI*/
 .subheading_label {
     -fx-font-size: 14pt;
     -fx-font-weight: bold;
 }
 
-// CSS CLASS FOR LABELS SERVING AS PROMPTS IN THE GUI
+/*CSS CLASS FOR LABELS SERVING AS PROMPTS IN THE GUI*/
 .prompt_label {
     -fx-font-size: 13pt;
     -fx-font-weight: bold;
 }
 
-// CSS CLASS FOR TEXT FIELDS AT UI PROMPTS
+/*CSS CLASS FOR TEXT FIELDS AT UI PROMPTS*/
 .prompt_text_field {
     -fx-font-size: 13pt;
 }
@@ -80,7 +80,7 @@
     -fx-background-color:#ffef84;
 }
 
-// CSS CLASS FOR POSEMAKER CONTROLS
+/*CSS CLASS FOR POSEMAKER CONTROLS*/
 .pma_controls {
     -fx-background-color: #aaaaff;
     -fx-background-radius: 5.0;
