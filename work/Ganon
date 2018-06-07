@@ -1,0 +1,26 @@
+
+{
+    "Background Color":"#000000;",
+    "Shapes":[
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"210.0",
+            "Center Y Location":"423.0",
+            "X Radius":"189.0",
+            "Y Radius":"185.0",
+            "Fill Color":"#e64d4dff",
+            "Outline Color":"#ffffffff",
+            "Outline Thickness":"24.391959798994975"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"742.0",
+            "Y Location":"27.0",
+            "Width":"354.0",
+            "Height":"310.0",
+            "Fill Color":"#8066ccff",
+            "Outline Color":"#e6ccffff",
+            "Outline Thickness":"43.597989949748744"
+        }
+    ]
+}

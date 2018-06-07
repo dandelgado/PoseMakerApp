@@ -1,0 +1,516 @@
+
+{
+    "Background Color":"#cce6ff;",
+    "Shapes":[
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"161.0",
+            "Y Location":"449.0",
+            "Width":"160.0",
+            "Height":"178.0",
+            "Fill Color":"#1a3399ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"297.0",
+            "Center Y Location":"546.0",
+            "X Radius":"22.0",
+            "Y Radius":"20.0",
+            "Fill Color":"#ffff4dff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"184.0",
+            "Center Y Location":"545.0",
+            "X Radius":"22.0",
+            "Y Radius":"21.0",
+            "Fill Color":"#ffff4dff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"210.0",
+            "Y Location":"449.0",
+            "Width":"62.0",
+            "Height":"97.0",
+            "Fill Color":"#b31a1aff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"216.0",
+            "Center Y Location":"297.0",
+            "X Radius":"159.0",
+            "Y Radius":"145.0",
+            "Fill Color":"#994d00ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"246.0",
+            "Center Y Location":"315.0",
+            "X Radius":"163.0",
+            "Y Radius":"157.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"710.0",
+            "Center Y Location":"486.0",
+            "X Radius":"100.0",
+            "Y Radius":"95.0",
+            "Fill Color":"#b3b3b3ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"12.819095477386934"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"796.0",
+            "Y Location":"445.0",
+            "Width":"150.0",
+            "Height":"174.0",
+            "Fill Color":"#669966ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"796.0",
+            "Y Location":"453.0",
+            "Width":"150.0",
+            "Height":"101.0",
+            "Fill Color":"#994d00ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"878.0",
+            "Center Y Location":"459.0",
+            "X Radius":"67.0",
+            "Y Radius":"67.0",
+            "Fill Color":"#669966ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"869.0",
+            "Y Location":"411.0",
+            "Width":"77.0",
+            "Height":"115.0",
+            "Fill Color":"#669966ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"891.0",
+            "Center Y Location":"251.0",
+            "X Radius":"210.0",
+            "Y Radius":"147.0",
+            "Fill Color":"#669966ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"860.0",
+            "Center Y Location":"300.0",
+            "X Radius":"173.0",
+            "Y Radius":"159.0",
+            "Fill Color":"#ffe699ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"854.0",
+            "Center Y Location":"304.0",
+            "X Radius":"162.0",
+            "Y Radius":"159.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"934.0",
+            "Center Y Location":"299.0",
+            "X Radius":"73.0",
+            "Y Radius":"67.0",
+            "Fill Color":"#ffffffff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"770.0",
+            "Center Y Location":"306.0",
+            "X Radius":"68.0",
+            "Y Radius":"61.0",
+            "Fill Color":"#ffffffff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"745.0",
+            "Center Y Location":"323.0",
+            "X Radius":"29.0",
+            "Y Radius":"28.0",
+            "Fill Color":"#000000ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"962.0",
+            "Center Y Location":"302.0",
+            "X Radius":"40.0",
+            "Y Radius":"33.0",
+            "Fill Color":"#000000ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"873.0",
+            "Center Y Location":"212.0",
+            "X Radius":"155.0",
+            "Y Radius":"80.0",
+            "Fill Color":"#ffe699ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"731.0",
+            "Center Y Location":"235.0",
+            "X Radius":"58.0",
+            "Y Radius":"57.0",
+            "Fill Color":"#ffe699ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"771.0",
+            "Center Y Location":"232.0",
+            "X Radius":"58.0",
+            "Y Radius":"39.0",
+            "Fill Color":"#ffe699ff",
+            "Outline Color":"#ffe699ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"908.0",
+            "Center Y Location":"430.0",
+            "X Radius":"55.0",
+            "Y Radius":"50.0",
+            "Fill Color":"#ffb3b3ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"855.0",
+            "Center Y Location":"405.0",
+            "X Radius":"113.0",
+            "Y Radius":"36.0",
+            "Fill Color":"#000000ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"854.0",
+            "Center Y Location":"397.0",
+            "X Radius":"107.0",
+            "Y Radius":"34.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#ffe6ccff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"946.0",
+            "Y Location":"481.0",
+            "Width":"84.0",
+            "Height":"24.0",
+            "Fill Color":"#ffffffff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"712.0",
+            "Y Location":"477.0",
+            "Width":"83.0",
+            "Height":"23.0",
+            "Fill Color":"#ffffffff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"710.0",
+            "Center Y Location":"489.0",
+            "X Radius":"29.0",
+            "Y Radius":"29.0",
+            "Fill Color":"#994d00ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"1027.0",
+            "Center Y Location":"493.0",
+            "X Radius":"31.0",
+            "Y Radius":"30.0",
+            "Fill Color":"#994d00ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"699.0",
+            "Y Location":"453.0",
+            "Width":"24.0",
+            "Height":"74.0",
+            "Fill Color":"#4d66ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"1024.0",
+            "Y Location":"457.0",
+            "Width":"20.0",
+            "Height":"76.0",
+            "Fill Color":"#4d66ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"1035.0",
+            "Center Y Location":"307.0",
+            "X Radius":"17.0",
+            "Y Radius":"172.0",
+            "Fill Color":"#e6e6e6ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"1033.0",
+            "Center Y Location":"449.0",
+            "X Radius":"55.0",
+            "Y Radius":"15.0",
+            "Fill Color":"#4d66ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"1027.0",
+            "Y Location":"457.0",
+            "Width":"14.0",
+            "Height":"56.0",
+            "Fill Color":"#4d66ccff",
+            "Outline Color":"#4d66ccff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"699.0",
+            "Center Y Location":"486.0",
+            "X Radius":"20.0",
+            "Y Radius":"26.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"724.0",
+            "Center Y Location":"480.0",
+            "X Radius":"14.0",
+            "Y Radius":"17.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"1041.0",
+            "Center Y Location":"493.0",
+            "X Radius":"21.0",
+            "Y Radius":"29.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"1019.0",
+            "Center Y Location":"482.0",
+            "X Radius":"16.0",
+            "Y Radius":"20.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Rectangle",
+            "X Location":"796.0",
+            "Y Location":"619.0",
+            "Width":"150.0",
+            "Height":"46.0",
+            "Fill Color":"#e6e699ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"206.0",
+            "Center Y Location":"301.0",
+            "X Radius":"57.0",
+            "Y Radius":"51.0",
+            "Fill Color":"#ffffffff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"332.0",
+            "Center Y Location":"307.0",
+            "X Radius":"50.0",
+            "Y Radius":"50.0",
+            "Fill Color":"#ffffffff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"269.0",
+            "Center Y Location":"161.0",
+            "X Radius":"131.0",
+            "Y Radius":"85.0",
+            "Fill Color":"#b31a1aff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"124.0",
+            "Center Y Location":"183.0",
+            "X Radius":"78.0",
+            "Y Radius":"70.0",
+            "Fill Color":"#b31a1aff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"270.0",
+            "Center Y Location":"236.0",
+            "X Radius":"174.0",
+            "Y Radius":"37.0",
+            "Fill Color":"#b31a1aff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"287.0",
+            "Center Y Location":"151.0",
+            "X Radius":"63.0",
+            "Y Radius":"43.0",
+            "Fill Color":"#ffffffff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"149.0",
+            "Center Y Location":"175.0",
+            "X Radius":"73.0",
+            "Y Radius":"55.0",
+            "Fill Color":"#b31a1aff",
+            "Outline Color":"#b31a1aff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"189.0",
+            "Center Y Location":"314.0",
+            "X Radius":"25.0",
+            "Y Radius":"24.0",
+            "Fill Color":"#000000ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"113.0",
+            "Center Y Location":"229.0",
+            "X Radius":"28.0",
+            "Y Radius":"19.0",
+            "Fill Color":"#b31a1aff",
+            "Outline Color":"#b31a1aff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"349.0",
+            "Center Y Location":"301.0",
+            "X Radius":"26.0",
+            "Y Radius":"27.0",
+            "Fill Color":"#000000ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"228.0",
+            "Center Y Location":"435.0",
+            "X Radius":"58.0",
+            "Y Radius":"43.0",
+            "Fill Color":"#ffb3b3ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"275.0",
+            "Center Y Location":"384.0",
+            "X Radius":"131.0",
+            "Y Radius":"53.0",
+            "Fill Color":"#000000ff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        },
+        {
+            "Shape Type":"Ellipse",
+            "Center X Location":"293.0",
+            "Center Y Location":"347.0",
+            "X Radius":"65.0",
+            "Y Radius":"47.0",
+            "Fill Color":"#ffe6ccff",
+            "Outline Color":"#000000ff",
+            "Outline Thickness":"3.2160804020100504"
+        }
+    ]
+}
